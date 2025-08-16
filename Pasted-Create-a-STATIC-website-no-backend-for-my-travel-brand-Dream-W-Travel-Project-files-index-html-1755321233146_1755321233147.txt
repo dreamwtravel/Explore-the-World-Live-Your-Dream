@@ -54,7 +54,7 @@ Consent checkbox: consent (must be checked)
 	•	Anti-spam: add a hidden honeypot field named website (must stay empty).
 Add a soft client-side rate limit: max 3 submissions per browser per hour using localStorage timestamps.
 	6.	Business Info
-	•	Email: dreamwtravelservices@gmail.com
+	•	Email: dreamwtravelsevices@gmail.com
 	•	Business Hours: 9:00 AM – 8:00 PM Monday to Friday
 	•	Show as a clean info block with small icons (no phone number).
 	7.	Footer (black background, white text)
