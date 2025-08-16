@@ -67,7 +67,7 @@ Add a soft client-side rate limit: max 3 submissions per browser per hour using 
 
 Form submission (Formspree — NO SMTP)
 	•	Use Formspree endpoint: https://formspree.io/f/meozdbzd with method="POST".
-	•	Owner notification: goes to dreamwtravelservices@gmail.com (configured in Formspree).
+	•	Owner notification: goes to dreamwtravelsevices@gmail.com (configured in Formspree).
 	•	Set Reply-To to the customer’s email.
 	•	If Formspree autoresponder is available on the account, enable a friendly customer confirmation using the following template (otherwise skip autoresponder and rely on the on-page success message):
 	•	Subject: We received your request — Dream W Travel
