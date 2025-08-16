@@ -212,7 +212,7 @@ p {
     left: 0;
     right: 0;
     bottom: 0;
-    background-image: url('assets/dramatic-mountain-clouds.jpg');
+    background-image: url("dramatic-mountain-clouds.jpg");
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
